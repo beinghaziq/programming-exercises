@@ -1,0 +1,1 @@
+puts([1, 4, 3].permutation(3).to_a.inspect)
