@@ -1,5 +1,6 @@
-# Develop a function that takes a string as input and identifies the longest palindromic substring within it.
-# For instance, if the input string is 'babad', the function should return 'bab' as the longest palindromic substring.
+# Please write a function that accepts a string as input and returns the second-highest occurring character in the string?
+# For instance, if the input string is 'aaabbc', the function should return 'b' since 'b' occurs the second-highest number
+# of times in the string.
 def find_second_max_occurer(str):
     occurences = {}
     for letter in str:
