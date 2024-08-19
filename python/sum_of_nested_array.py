@@ -10,3 +10,4 @@ def flatten(array):
 
 nested_list = [1, 2, [3, [4], 5, "6"], 6]
 print(sum(flatten(nested_list)))
+print(sum(flatten([])))
