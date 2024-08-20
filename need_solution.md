@@ -4,5 +4,4 @@ Koko can decide her bananas-per-hour eating speed of k. Each hour, she chooses s
 Koko likes to eat slowly but still wants to finish eating all the bananas before the guards return.
 Return the minimum integer k such that she can eat all the bananas within h hours.
 
-2. Find unsorted array in array
-3. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+2. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
